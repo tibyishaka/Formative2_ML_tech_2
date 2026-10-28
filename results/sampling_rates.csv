@@ -1,0 +1,5 @@
+activity,recordings,native_acc_hz_median,native_acc_hz_min,native_acc_hz_max,native_gyro_hz_median,mean_duration_s,harmonised_hz
+standing,21,52.9,52.9,52.9,52.9,7.9,50
+walking,21,52.9,52.9,52.9,52.9,8.6,50
+jumping,21,52.9,52.9,52.9,52.9,7.7,50
+still,20,52.9,52.9,52.9,52.9,8.9,50
